@@ -17,6 +17,7 @@ It is written in Common Lisp.
 * [cl-base64](http://www.cliki.net/cl-base64)
 * [ironclad](http://cliki.net/Ironclad)
 * [split-sequence](http://www.cliki.net/SPLIT-SEQUENCE)
+* The crypto library from [OpenSSL](http://www.openssl.org)
 
 ## Installation
 
